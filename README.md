@@ -1,8 +1,8 @@
 # Natural Language Processing(NLP)
 ## The provided code demonstrates how to use word embedding techniques with the embedding layer in Keras. Here are the steps outlined in the code:
 
-1.Import necessary libraries, including TensorFlow and Keras.
-2.Define sentences as a list of strings.
+1. Import necessary libraries, including TensorFlow and Keras.
+2. Define sentences as a list of strings.
 3.Specify the vocabulary size (voc_size) and use the one_hot function from Keras to perform one-hot encoding on the sentences.
 4.Import additional necessary modules from Keras for word embedding.
 5.Define the maximum length of sentences (sent_length) and pad the sequences using pad_sequences.
