@@ -1,5 +1,5 @@
 # Natural Language Processing(NLP)
-## The provided code demonstrates how to use word embedding techniques with the embedding layer in Keras. Here are the steps outlined in the code:
+### The provided code demonstrates how to use word embedding techniques with the embedding layer in Keras. Here are the steps outlined in the code:
 
 - Import necessary libraries, including TensorFlow and Keras.
 - Define sentences as a list of strings.
